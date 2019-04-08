@@ -1,0 +1,21 @@
+c:\users\lab3\documents\visual studio 2013\Projects\proyecto 00005\proyecto 00005\bin\Debug\proyecto 00005.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\proyecto 00005\proyecto 00005\bin\Debug\proyecto 00005.exe
+c:\users\lab3\documents\visual studio 2013\Projects\proyecto 00005\proyecto 00005\bin\Debug\proyecto 00005.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\proyecto 00005\proyecto 00005\obj\Debug\proyecto 00005.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\proyecto 00005\proyecto 00005\obj\Debug\proyecto_00005.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\proyecto 00005\proyecto 00005\obj\Debug\proyecto_00005.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\proyecto 00005\proyecto 00005\obj\Debug\proyecto 00005.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\proyecto 00005\proyecto 00005\obj\Debug\proyecto 00005.exe
+c:\users\lab3\documents\visual studio 2013\Projects\proyecto 00005\proyecto 00005\obj\Debug\proyecto 00005.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\proyecto 00005\proyecto 00005\bin\Debug\proyecto 00005.exe.config
+C:\Users\Ligia Sarai Colocho\Desktop\proyecto 00005\proyecto 00005\obj\Debug\proyecto 00005.exe
+C:\Users\Ligia Sarai Colocho\Desktop\proyecto 00005\proyecto 00005\obj\Debug\proyecto 00005.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\proyecto 00005\proyecto 00005\bin\Debug\proyecto 00005.exe
+C:\Users\Ligia Sarai Colocho\Desktop\proyecto 00005\proyecto 00005\bin\Debug\proyecto 00005.pdb
+C:\Users\Ligia Sarai Colocho\Desktop\proyecto 00005\proyecto 00005\obj\Debug\proyecto 00005.csprojResolveAssemblyReference.cache
+C:\Users\Ligia Sarai Colocho\Desktop\proyecto 00005\proyecto 00005\obj\Debug\proyecto_00005.Form1.resources
+C:\Users\Ligia Sarai Colocho\Desktop\proyecto 00005\proyecto 00005\obj\Debug\proyecto_00005.Properties.Resources.resources
+C:\Users\Ligia Sarai Colocho\Desktop\proyecto 00005\proyecto 00005\obj\Debug\proyecto 00005.csproj.GenerateResource.Cache
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_04042019\proyecto 00005\bin\Debug\proyecto 00005.exe.config
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_04042019\proyecto 00005\obj\Debug\proyecto 00005.exe
+C:\Users\Ligia Sarai Colocho\Desktop\EJERCICIOS PROGRA01\Clase_04042019\proyecto 00005\obj\Debug\proyecto 00005.pdb
